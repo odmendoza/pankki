@@ -11,173 +11,23 @@ include("shared/header.php");
 
 <div class="container">
     <section class="image-card">
-        <img src="assets/images/photo-01.jpeg" class="image" alt="Photo 1">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                <br>
-                <a rel="license"
-                   target="_blank"
-                   href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                    <img alt="Licencia de Creative Commons"
-                         src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
-        <img src="assets/images/photo-02.jpeg" class="image" alt="Photo 2">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
-        <img src="assets/images/photo-03.jpg" class="image" alt="Photo 3">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
-        <img src="assets/images/photo-04.jpeg" class="image" alt="Photo 4">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
-        <img src="assets/images/photo-05.jpeg" class="image" alt="Photo 5">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
-        <img src="assets/images/photo-06.jpg" class="image" alt="Photo 6">
-        <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="image-card">
         <img src="assets/images/photo-07.jpg" class="image" alt="Photo 7">
         <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
+            <a href="/credits.php"> <h4 class="text-center"><strong>Credits</strong></h4></a>
         </div>
     </section>
 
     <section class="image-card">
-        <img src="assets/images/photo-08.jpeg" class="image" alt="Photo 8">
+        <img src="assets/images/photo-08.jpg" class="image" alt="Photo 8">
         <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
+            <a href="/savings.php"> <h4 class="text-center"><strong>Savings</strong></h4></a>
         </div>
     </section>
 
     <section class="image-card">
-        <img src="assets/images/photo-09.jpeg" class="image" alt="Photo 9">
+        <img src="assets/images/photo-09.jpg" class="image" alt="Photo 9">
         <div class="content-card">
-            <img src="assets/images/author.jpg" alt="" class="author-img">
-            <div>
-                <p class="author-name"><strong>Ruth Beck</strong><br>
-                    <small><i>Photographer</i></small>
-                    <br>
-                    <a rel="license"
-                       target="_blank"
-                       href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                        <img alt="Licencia de Creative Commons"
-                             src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"/>
-                    </a>
-                </p>
-            </div>
+            <a href="/simulator.php"> <h4 class="text-center"><strong>Simulator</strong></h4></a>
         </div>
     </section>
 
@@ -185,26 +35,19 @@ include("shared/header.php");
 
 <hr>
 <h3 class="text-center">
-    <a name="about">About</a>
+    Mission
 </h3>
 <hr>
 <main>
     <div class="container-fluid">
         <div class="about">
             <p class="text-justify">
-                My name is Ruth Beck, I am a professional photographer and the creator of Kava, a website where I share with the world the best of my photographs under a Creative Commons license.
-                I am passionate about the world of color and image.
+                Create solutions and offer services that generate value for our clients and society. To be recognized as the best financial group by its clients and their communities.
             </p>
-            <img src="assets/images/author.jpg" class="about-img">
+            <img src="assets/images/bank.jpeg" class="about-img">
         </div>
     </div>
 </main>
-
-<hr>
-<h3 class="text-center">
-    <a name="contact">Contact</a>
-</h3>
-<hr>
 
 <?php
 include("shared/footer.php");
