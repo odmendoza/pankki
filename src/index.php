@@ -7,11 +7,11 @@
 
     <title>Kuva</title>
 
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png"/>
 
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
-    <link rel="stylesheet" type="text/css" href="styles/slider.css">
-    <link rel="stylesheet" type="text/css" href="styles/footer.css">
+    <link rel="stylesheet" type="text/css" href="assets/styles/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/styles/slider.css">
+    <link rel="stylesheet" type="text/css" href="assets/styles/footer.css">
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
           integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
@@ -32,7 +32,10 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="images/favicon.png" width="30px" height="50px" alt="">
+            <img src="assets/images/favicon.png"
+                 width="30px" h
+                 eight="50px"
+                 alt="">
             Kuva
         </a>
         <button class="navbar-toggler" type="button"
@@ -74,28 +77,32 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
-            <div class="carousel-item active" style="background-image: url('images/slide-1.jpg')">
+            <div class="carousel-item active"
+                 style="background-image: url('assets/images/slide-1.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="display-4">Kuva</h3>
                     <p class="lead">Originality, beauty and elegance in each photo</p>
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/slide-2.jpg')">
+            <div class="carousel-item"
+                 style="background-image: url('assets/images/slide-2.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="display-4">Professional photographers</h3>
                     <p class="lead">The best photos</p>
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/slide-3.jpg')">
+            <div class="carousel-item"
+                 style="background-image: url('assets/images/slide-3.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="display-4">Adventurous spirit</h3>
                     <p class="lead">Landscapes never seen</p>
                 </div>
             </div>
             <!-- Slide Four - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('images/slide-4.jpg')">
+            <div class="carousel-item"
+                 style="background-image: url('assets/images/slide-4.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="display-4">Photo camera</h3>
                     <p class="lead">High performance devices</p>
@@ -121,9 +128,9 @@
 
 <div class="container">
     <section class="image-card">
-        <img src="images/photo-01.jpeg" class="image" alt="Photo 1">
+        <img src="assets/images/photo-01.jpeg" class="image" alt="Photo 1">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -140,9 +147,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-02.jpeg" class="image" alt="Photo 2">
+        <img src="assets/images/photo-02.jpeg" class="image" alt="Photo 2">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -159,9 +166,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-03.jpg" class="image" alt="Photo 3">
+        <img src="assets/images/photo-03.jpg" class="image" alt="Photo 3">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -178,9 +185,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-04.jpeg" class="image" alt="Photo 4">
+        <img src="assets/images/photo-04.jpeg" class="image" alt="Photo 4">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -197,9 +204,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-05.jpeg" class="image" alt="Photo 5">
+        <img src="assets/images/photo-05.jpeg" class="image" alt="Photo 5">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -216,9 +223,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-06.jpg" class="image" alt="Photo 6">
+        <img src="assets/images/photo-06.jpg" class="image" alt="Photo 6">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -235,9 +242,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-07.jpg" class="image" alt="Photo 7">
+        <img src="assets/images/photo-07.jpg" class="image" alt="Photo 7">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -254,9 +261,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-08.jpeg" class="image" alt="Photo 8">
+        <img src="assets/images/photo-08.jpeg" class="image" alt="Photo 8">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -273,9 +280,9 @@
     </section>
 
     <section class="image-card">
-        <img src="images/photo-09.jpeg" class="image" alt="Photo 9">
+        <img src="assets/images/photo-09.jpeg" class="image" alt="Photo 9">
         <div class="content-card">
-            <img src="images/author.jpg" alt="" class="author-img">
+            <img src="assets/images/author.jpg" alt="" class="author-img">
             <div>
                 <p class="author-name"><strong>Ruth Beck</strong><br>
                     <small><i>Photographer</i></small>
@@ -305,7 +312,7 @@
                 My name is Ruth Beck, I am a professional photographer and the creator of Kava, a website where I share with the world the best of my photographs under a Creative Commons license.
                 I am passionate about the world of color and image.
             </p>
-            <img src="images/author.jpg" class="about-img">
+            <img src="assets/images/author.jpg" class="about-img">
         </div>
     </div>
 </main>
