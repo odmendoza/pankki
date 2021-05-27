@@ -1,5 +1,5 @@
-# podocarpus
-Podocarpus | Agencia de turismo (Proyecto de la materia de Ingeniería Web)
+# pankki
+Pankki | Bank informative website
 
 ### Docker image
 
