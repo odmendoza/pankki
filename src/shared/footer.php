@@ -1,14 +1,21 @@
-<footer class="footer">
-        <h4>
-            PARQUE PODOCARPUS
-        </h4>
-        <p>Ubicación: Límite fronterizo entre las provincias de Loja y Zamora Chincipe</p>
-        <p>Superficie: 1,453 km2</p>
-        <p>Horario de atención: Abierto las 24 horas</p>
-    <span><img src="../assets/images/facebook.png" alt=""></span>
-    <span><img src="../assets/images/instagram.png" alt=""></span>
-    <span><img src="../assets/images/youtube.png" alt=""></span>
-</footer>
-
+<!-- Footer -->
+<div class="footer">
+    <footer>
+        <div class="social">
+            <a href="#"><i class="icon ion-social-instagram"></i></a>
+            <a href="#"><i class="icon ion-social-snapchat"></i></a>
+            <a href="#"><i class="icon ion-social-twitter"></i></a>
+            <a href="#"><i class="icon ion-social-facebook"></i></a>
+        </div>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="/">Home</a></li>
+            <li class="list-inline-item"><a href="/credits.php">Credits</a></li>
+            <li class="list-inline-item"><a href="/savings.php">Savings</a></li>
+            <li class="list-inline-item"><a href="/simulator.php">Simulator</a></li>
+            <li class="list-inline-item"><a href="/contact.php">Contact</a></li>
+        </ul>
+        <p class="copyright">Pankki © 2021</p>
+    </footer>
+</div>
 </body>
 </html>
