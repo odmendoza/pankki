@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Kuva</title>
+    <title>Pankki | Bank</title>
 
     <link rel="icon" type="image/png" href="assets/images/favicon.png"/>
 
@@ -32,11 +32,12 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="assets/images/favicon.png"
-                 width="30px" h
-                 eight="50px"
-                 alt="">
-            Kuva
+<!--            <img src="assets/images/logo.png"-->
+<!--                 width="30px"-->
+<!--                 height="30px"-->
+<!--                 color="white"-->
+<!--                 alt="">-->
+            Pankki
         </a>
         <button class="navbar-toggler" type="button"
                 data-toggle="collapse"
@@ -54,10 +55,13 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#galery">Galery</a>
+                    <a class="nav-link" href="#credits">Credits</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#about">About</a>
+                    <a class="nav-link" href="#savings">Savings</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#simulator">Simulator</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
@@ -80,32 +84,32 @@
             <div class="carousel-item active"
                  style="background-image: url('assets/images/slide-1.jpg')">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3 class="display-4">Kuva</h3>
-                    <p class="lead">Originality, beauty and elegance in each photo</p>
+                    <h3 class="display-4">Pankki</h3>
+                    <p class="lead">A modern bank</p>
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
             <div class="carousel-item"
                  style="background-image: url('assets/images/slide-2.jpg')">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3 class="display-4">Professional photographers</h3>
-                    <p class="lead">The best photos</p>
+                    <h3 class="display-4">Savings plans</h3>
+                    <p class="lead">Choose yours</p>
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
             <div class="carousel-item"
                  style="background-image: url('assets/images/slide-3.jpg')">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3 class="display-4">Adventurous spirit</h3>
-                    <p class="lead">Landscapes never seen</p>
+                    <h3 class="display-4">Let's grow together</h3>
+                    <p class="lead">Use our services</p>
                 </div>
             </div>
             <!-- Slide Four - Set the background image for this slide in the line below -->
             <div class="carousel-item"
                  style="background-image: url('assets/images/slide-4.jpg')">
                 <div class="carousel-caption d-none d-md-block">
-                    <h3 class="display-4">Photo camera</h3>
-                    <p class="lead">High performance devices</p>
+                    <h3 class="display-4">Worry about making money</h3>
+                    <p class="lead">We take care of it</p>
                 </div>
             </div>
         </div>
@@ -334,13 +338,13 @@
         </div>
         <ul class="list-inline">
             <li class="list-inline-item"><a href="/">Home</a></li>
-            <li class="list-inline-item"><a href="/">Galery</a></li>
-            <li class="list-inline-item"><a href="/">About</a></li>
-            <li class="list-inline-item"><a href="/">Contact</a></li>
+            <li class="list-inline-item"><a href="/credits.php">Credits</a></li>
+            <li class="list-inline-item"><a href="/savings.php">Savings</a></li>
+            <li class="list-inline-item"><a href="/simulator.php">Simulator</a></li>
+            <li class="list-inline-item"><a href="/contact.php">Contact</a></li>
         </ul>
-        <p class="copyright">Kuva © 2021</p>
+        <p class="copyright">Pankki © 2021</p>
     </footer>
 </div>
-
 </body>
 </html>
